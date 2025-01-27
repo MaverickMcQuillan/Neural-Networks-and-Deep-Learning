@@ -20,13 +20,23 @@
     ]
   },
   {
+    "objectID": "Chapter6.html",
+    "href": "Chapter6.html",
+    "title": "2  Deep Learning",
+    "section": "",
+    "text": "In the last chapter we learned that deep neural networks are often much harder to train than shallow neural networks.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Deep Learning</span>"
+    ]
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "3  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {

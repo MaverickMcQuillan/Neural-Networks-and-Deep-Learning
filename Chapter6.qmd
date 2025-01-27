@@ -1,0 +1,2 @@
+# Deep Learning
+In the last chapter we learned that deep neural networks are often much harder to train than shallow neural networks.
